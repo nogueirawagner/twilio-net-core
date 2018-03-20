@@ -24,7 +24,7 @@ namespace TwilioSms
       TwilioClient.Init(accountSid, authToken);
 
       var numeros = new List<string>();
-      numeros.Add("+5562991350203");
+      numeros.Add("+5562992350003");
 
       foreach(var n in numeros)
       {
